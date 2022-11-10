@@ -1,2 +1,3 @@
 # hello_world
-For lab 10 in CSE 323
+For lab 10 in CSE 232
+My name is Jack Martin 
